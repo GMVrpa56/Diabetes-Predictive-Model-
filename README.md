@@ -29,5 +29,3 @@ This project predicts diabetes using machine learning classification techniques.
 ## Dataset
 Diabetes dataset containing medical diagnostic features.
 
-## Author
-Gracy
